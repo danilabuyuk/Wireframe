@@ -1,0 +1,26 @@
+body {
+   font-family: 'Inter', sans-serif;
+   background-color: #101010;
+   color: #ffffff;
+}
+.xbox-green {
+   color: #107c10;
+}
+.bg-xbox-green {
+   background-color: #107c10;
+}
+.border-xbox-green {
+   border-color: #107c10;
+}
+.active-nav {
+   color: #107c10;
+   font-weight: 600;
+}
+.active-guide-tab {
+   background-color: #107c10;
+   color: #ffffff;
+}
+#home {
+   background-image: url("../images/xboxBlack.png");
+}
+
